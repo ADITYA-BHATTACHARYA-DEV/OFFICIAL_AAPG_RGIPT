@@ -41,7 +41,7 @@ const Achievements: React.FC = () => {
       title: "SMART INDIA HACKATHON",
       year: "2024",
       category: "Practical Solution-Oriented Hackathon",
-      highlight: "Semifinalist",
+      highlight: "Grand Finalist",
       description:
         "Team MYSTIQUE's journey at Smart India Hackathon 2024 showcased remarkable innovation, developing an advanced facial recognition technology for Madhya Pradesh Police using AI and decentralized storage. Their diverse six-member team from different engineering disciplines worked intensively during the 36-hour hackathon at LNCT Group of Colleges in Bhopal. Though they didn't win, the experience was transformative, offering invaluable lessons in teamwork, technological problem-solving, and pushing innovative boundaries.",
       imageUrl: process.env.NEXT_PUBLIC_ACHIEVEMENT_IMAGE_URL_2 || "/vaibhav sih.jpg",
